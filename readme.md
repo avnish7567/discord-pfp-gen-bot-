@@ -65,7 +65,7 @@ Need help or want to contribute?
 ## ☕ Support Development
 
 If you find this bot helpful, consider supporting us:  
-[ko-fi.com/syno](https://ko-fi.com/syno)
+[ko-fi.com/truexch](https://ko-fi.com/truexch)
 
 ---
 
@@ -80,3 +80,4 @@ Open issues for bugs, ideas, or improvements.
 
 MIT License © 2025  
 Made with ❤️ by SynoBoosts Team
+
